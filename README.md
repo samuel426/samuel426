@@ -67,7 +67,6 @@ Java와 Spring Boot를 중심으로 백엔드 개발 역량을 쌓고 있습니�
 **담당 내용**
 
 - 회원, 캡슐, 신고, 제재, AI 검증 로그, 인증 로그를 관리하는 관리자 API 구현
-- Redis Sorted Set 기반 Sliding Window Rate Limiting과 이상 행동 제재 구조 구현
 - OpenAI Moderation API 연동 및 별도 트랜잭션을 통한 감사 로그 보존
 - 외래키 의존 관계를 고려한 캡슐 연관 데이터 하드 딜리트 흐름 설계
 - Fetch Join과 쿼리 구조 개선으로 관리자 조회의 N+1 문제 대응
