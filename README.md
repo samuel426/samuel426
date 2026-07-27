@@ -3,7 +3,7 @@
 Java와 Spring Boot를 중심으로 백엔드 개발 역량을 쌓고 있습니다.  
 기능 구현에 그치지 않고, **데이터 정합성·예외 처리·로그와 이력·운영자 관점**까지 고려한 구조를 만드는 개발자를 지향합니다.
 
-현재는 **삼성청년SW·AI아카데미(SSAFY)**에서 Java, 알고리즘, 웹 개발과 AI 기초를 학습하며 실무 역량을 확장하고 있습니다.
+현재는 **삼성청년SW·AI아카데미(SSAFY**)에서 Java, 알고리즘, 웹 개발과 AI 기초를 학습하며 실무 역량을 확장하고 있습니다.
 
 <p align="left">
   <a href="mailto:samuel.woo2014@gmail.com"><img src="https://img.shields.io/badge/Email-samuel.woo2014%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
