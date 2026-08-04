@@ -187,4 +187,4 @@ APM 환경에 취약 웹 페이지를 구성하고 Boolean-based Blind SQL Injec
 
 - **Email** [samuel.woo2014@gmail.com](mailto:samuel.woo2014@gmail.com)
 - **GitHub** [github.com/samuel426](https://github.com/samuel426)
-- **Volunteer Activity** [instagram.com/lighthouse_official_](https://www.instagram.com/lighthouse_official_/)
+- **Volunteer Activity** [instagram.com/khu.lighthouse](https://www.instagram.com/khu.lighthouse)
