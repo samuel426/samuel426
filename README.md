@@ -8,7 +8,7 @@ Java와 Spring Boot를 중심으로 백엔드 개발 역량을 쌓고 있습니�
 <p align="left">
   <a href="mailto:samuel.woo2014@gmail.com"><img src="https://img.shields.io/badge/Email-samuel.woo2014%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/samuel426"><img src="https://img.shields.io/badge/GitHub-samuel426-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/lighthouse_official_/"><img src="https://img.shields.io/badge/Volunteer-Lighthouse-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/khu.lighthouse"><img src="https://img.shields.io/badge/Volunteer-Lighthouse-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
