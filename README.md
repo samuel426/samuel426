@@ -160,7 +160,7 @@ APM 환경에 취약 웹 페이지를 구성하고 Boolean-based Blind SQL Injec
 <br />
 
 **활동 기간** 2024.01 ~ 2025.02  
-**Activity Archive** [Instagram @lighthouse_official_](https://www.instagram.com/lighthouse_official_/)
+**Activity Archive** [Instagram @khu.lighthouse](https://www.instagram.com/khu.lighthouse/)
 
 - 1년 운영 로드맵 수립 및 월별 봉사 프로그램 기획
 - 플로깅, 유기견 보호소, 무료급식소, 농촌봉사, 연탄·김장봉사 등 활동 운영
